@@ -1,0 +1,36 @@
+{
+    "status":"0",   
+    "msg":"",       
+    "result":[
+        {
+            "productId":"5698",
+            "productName":"jjj",
+            "productPrice":"1229",
+            "productImg":"1.jpg"
+        },
+        {
+            "productId":"5ytj",
+            "productName":"dgr",
+            "productPrice":"1269",
+            "productImg":"2.jpg"
+        },
+        {
+            "productId":"5yt",
+            "productName":"btg",
+            "productPrice":"1366",
+            "productImg":"3.jpg"
+        },
+        {
+            "productId":"tyn",
+            "productName":"brr",
+            "productPrice":"136",
+            "productImg":"4.jpg"
+        },
+        {
+            "productId":"5fni",
+            "productName":"fgh",
+            "productPrice":"166",
+            "productImg":"5.jpg"
+        }
+    ]
+}
